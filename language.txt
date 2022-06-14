@@ -1,0 +1,4 @@
+I want a language that blends vector and non-vector types together, where the programmer 
+can state vector types in the hope of enabling greater vectorization. I'm also curious if infering
+vector types can be done in the same vein as how chlorophyll synthesizes region types.
+
